@@ -1,1 +1,2 @@
 this is a sample text from feature/test-1
+test no. 2
